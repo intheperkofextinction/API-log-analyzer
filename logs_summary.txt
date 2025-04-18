@@ -1,0 +1,6 @@
+Request Count by Endpoint:
+/: 2
+/favicon.ico: 1
+
+ Request Count by hour:
+09:00: 3 requests
